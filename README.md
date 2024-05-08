@@ -3,12 +3,19 @@
 >
 > English for machine translation, may not be right.
 ## 1 背景 / Background
+
 本项目为论文《**Identifying and analyzing the distribution of sliding surfaces in rock slopes using total displacement contour maps**》中的 “***Availability on 3D slopes and computational efficiency***” 章节的具体实现代码。
+
 This project is the specific implementation code of the Section "***4.4 Availability on 3D slopes and computational efficiency***" in the paper "***Identifying and analyzing the distribution of sliding surfaces in slopes using total displacement contour maps***"
+
 其他部分实现代码也可参照该项目修改后实现。
+
 Other parts of the implementation code can also be modified with reference to the project.
+
 ## 2 文件和使用说明 / Files and instructions
+
 ### 2.1 项目结构 / Project structure
+
 ```
 │  list.txt // 不重要文件 / Not important files
 │  README.md // 帮助文件 / help file
@@ -49,13 +56,16 @@ Other parts of the implementation code can also be modified with reference to th
                 Project_Default.xml
 ```
 ### 2.2 使用说明 / Instructions
+
 1. 使用 *Jupyter notebook* 打开主文件夹；
    Open the main folder using *Jupyter notebook*;
 2. 按照 `Sliding_identification_program.ipynb`运行，得到其他文件；
    Run according to `Sliding _ identification _ program.ipynb` to get other files;
 3. 使用 PyCharm 打开 `pythonProject` 项目，运行之后即可。
    Open the`pythonProject` project with PyCharm and run it.
+   
 ## 3 项目依赖环境 /Projects depend on the environment
+
 | Package					   | Version	 |
 | ----------------------------- | ----------- |
 | aiofiles					  | 23.1.0	  |
