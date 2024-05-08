@@ -1,0 +1,41 @@
+卷 文件 的文件夹 PATH 列表
+卷序列号为 4E65-95AB
+D:.
+│  list.txt
+│  README.md
+│  Slice_boundary.png
+│  Sliding_identification_program.ipynb
+│  坐标.svg
+│  坐标.vsdx
+│  获取文件名.bat
+│  
+├─markdown_img_of_README
+│      坐标.svg
+│      
+├─program_process_files
+│      Slice_slide_02.50.png
+│      Slice_slide_05.00.png
+│      Slice_slide_10.00.png
+│      Slice_slide_15.00.png
+│      Slice_slide_20.00.png
+│      Slice_slide_25.00.png
+│      Slice_slide_30.00.png
+│      Slice_slide_35.00.png
+│      Slice_slide_40.00.png
+│      Slice_slide_45.00.png
+│      Slice_slide_47.50.png
+│      
+└─pythonProject
+    │  draw_slope_and_sliding_surface.py
+    │  
+    └─.idea
+        │  .gitignore
+        │  misc.xml
+        │  modules.xml
+        │  pythonProject.iml
+        │  workspace.xml
+        │  
+        └─inspectionProfiles
+                profiles_settings.xml
+                Project_Default.xml
+                
