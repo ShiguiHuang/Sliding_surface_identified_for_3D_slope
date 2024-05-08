@@ -58,10 +58,13 @@ Other parts of the implementation code can also be modified with reference to th
 ### 2.2 使用说明 / Instructions
 
 1. 使用 *Jupyter notebook* 打开主文件夹；
+   
    Open the main folder using *Jupyter notebook*;
-2. 按照 `Sliding_identification_program.ipynb`运行，得到其他文件；
+3. 按照 `Sliding_identification_program.ipynb`运行，得到其他文件；
+   
    Run according to `Sliding _ identification _ program.ipynb` to get other files;
-3. 使用 PyCharm 打开 `pythonProject` 项目，运行之后即可。
+5. 使用 PyCharm 打开 `pythonProject` 项目，运行之后即可。
+   
    Open the`pythonProject` project with PyCharm and run it.
    
 ## 3 项目依赖环境 /Projects depend on the environment
