@@ -19,42 +19,79 @@ Other parts of the implementation code can also be modified with reference to th
 ### 2.1 项目结构 / Project structure
 
 │  **list.txt** # 不重要文件 / Not important files
+
 │  **README.md** # 帮助文件 / help file
+
 │  **Slice_boundary.png** # 用于提取边界点的图片文件 / Image file for extracting boundary points
+
 │  **Sliding_identification_program.ipynb** # 主要的文件，逻辑代码基本在这个文件中 / The main file, the logic code is basically in this file
+
 │  **坐标.svg** # 不重要文件 / Not important files
+
 │  **坐标.vsdx** # 不重要文件 / Not important files
+
 │  **获取文件名.bat** # 不重要文件 / Not important files
+
 │  
+
 ├─**markdown_img_of_README** # 不重要文件 / Not important files
+
 │      **坐标.svg** # 不重要文件 / Not important files
+
 │      
+
 ├─**program_process_files** # 程序主要资源文件夹 / Program main resource folder
+
 │      **Slice_slide_02.50.png** # 待识别滑面的切片，下同，数字表示z轴，代码的坐标系和论文有所不同! / The slice of the sliding surface to be identified, the same below, the number represents the z-axis, the coordinate system of the code and the paper are different!
+
 │      **Slice_slide_05.00.png**
+
 │      **Slice_slide_10.00.png**
+
 │      **Slice_slide_15.00.png**
+
 │      **Slice_slide_20.00.png**
+
 │      **Slice_slide_25.00.png**
+
 │      **Slice_slide_30.00.png**
+
 │      **Slice_slide_35.00.png**
+
 │      **Slice_slide_40.00.png**
+
 │      **Slice_slide_45.00.png**
+
 │      **Slice_slide_47.50.png**
+
 │      
+
 └─**pythonProject** # PyCharm 项目文件夹，用于绘制3D边坡滑面 / PyCharm project folder for drawing 3D slope sliding surfaces
+
     │  **draw_slope_and_sliding_surface.py** # 绘制3D边坡滑面代码文件 / Drawing 3D slope sliding surface code file
+    
     │  
+    
     └─**.idea** # PyCharm 默认配置文件，下同 / PyCharm default configuration file, same below
+    
         │  **.gitignore**
+        
         │  **misc.xml**
+        
         │  **modules.xml**
+        
         │  **pythonProject.iml**
+        
         │  **workspace.xml**
+        
         │  
+        
         └─**inspectionProfiles**
+        
                 **profiles_settings.xml**
+                
                 **Project_Default.xml**
+                
 
 ### 2.2 使用说明 / Instructions
 
